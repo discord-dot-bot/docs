@@ -2,7 +2,7 @@
 title: Commands
 description: 
 published: true
-date: 2021-06-09T19:44:04.115Z
+date: 2021-06-09T20:28:15.942Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-08T05:57:52.411Z
@@ -34,4 +34,5 @@ dateCreated: 2021-06-08T05:57:52.411Z
 | [foxgirl](http://documentation.discordbot.cc/en/commands/foxgirl) | Images      | Get an image of a foxgirl                                    | None                   | n/a                 | .foxgirl                          |
 | [neko](http://documentation.discordbot.cc/en/commands/neko)  | Images      | Get an image of a neko                                       | None                   | n/a                 | .neko                             |
 | [lewd](http://documentation.discordbot.cc/en/commands/lewd)  | Images      | Get an image of a lewd neko                                  | None                   | n/a                 | .lewd                             |
+| [invite](http://documentation.discordbot.cc/en/commands/invite) | Information | Get a link to add the bot to another server                  | None                   | n/a                 | .invite                           |
 
