@@ -2,13 +2,13 @@
 title: Commands
 description: 
 published: true
-date: 2021-06-22T19:34:42.272Z
+date: 2021-06-22T19:36:35.006Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-08T05:57:52.411Z
 ---
 
-# Discord.Bot commands list
+# ZERO commands list
 | Command                                                      | Category    | Description                                                  | Permission Requirement | Arguments           | Example usage                     |
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ | ---------------------- | ------------------- | --------------------------------- |
 | [help](http://documentation.discordbot.cc/en/commands/help)  | Information | Get a link to the documentation and a command list           | None                   | [Command:str]       | .help ping                        |
