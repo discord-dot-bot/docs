@@ -2,7 +2,7 @@
 title: Privacy Policy
 description: 
 published: true
-date: 2021-06-11T22:17:44.994Z
+date: 2021-06-22T19:29:12.163Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-11T22:17:44.994Z
@@ -12,7 +12,7 @@ dateCreated: 2021-06-11T22:17:44.994Z
 
 
 ## Data We Collect Automatically:
-> When you connect to our website(s), your connection and IP address may be logged becuase of our DDoS protection provider, cloudflare. We use this data to evaluate and block any attacks and to know analytics. If you login on our wiki, your data is saved for your profile and cookies are automatically saved.
+> When you connect to our website(s), your connection and IP address and other information may be logged becuase of our DDoS protection provider, cloudflare. We use this data to evaluate and block any attacks or suspicious traffic.
 {.is-info}
 
 
